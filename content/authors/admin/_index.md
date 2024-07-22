@@ -3,7 +3,7 @@
 title: Hui Xu
 
 # Name pronunciation (optional)
-name_pronunciation: 徐 晖
+name_pronunciation: 徐晖
 
 # Full name (for SEO)
 first_name: Hui
@@ -34,11 +34,11 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Hui_Xu701
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/hsu_hubert_/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SeoHwii
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
