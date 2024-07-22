@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval 
+  - Computer Vision and Pattern Recognition
+  - Edge Computing and Multimodality
+  - Big Data Engineering Technologies
 
 education:
 #  - area: PhD Artificial Intelligence
