@@ -3,7 +3,7 @@
 title: Hui Xu
 
 # Name pronunciation (optional)
-name_pronunciation: 徐晖
+name_pronunciation: Hui Hsu
 
 # Full name (for SEO)
 first_name: Hui
