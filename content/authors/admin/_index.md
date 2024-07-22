@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 徐晖
+title: Hui Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Hui Xu
+name_pronunciation: 徐 晖
 
 # Full name (for SEO)
 first_name: Hui
