@@ -144,6 +144,14 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Dogs
+        description: ''
+        percent: 100
+        icon: dog
+      - name: Gyms
+        description: ''
+        percent: 100
+        icon: gym
       - name: Photography
         description: ''
         percent: 80
