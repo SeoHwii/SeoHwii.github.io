@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hui Xu
+title: Hui Xu 徐晖
 
 # Name pronunciation (optional)
 name_pronunciation: Hui Hsu
@@ -200,4 +200,4 @@ awards:
 
 ## About Me
 
-Hello! I am currently enrolled in the Master of Philosophy in Data Science at the City University of Macau, under the guidance of xx tutor. My research interests are mainly focused on the field of Artificial Intelligence, such as Machine Learning, Deep Learning, Reinforcement Learning and Federated Learning, in addition to Big Data Engineering Technologies, Edge Computing and Multimodality, Computer Vision and Pattern Recognition, Privacy and Security. In my spare time, I enjoy working out, running, traveling and photography.Dedicated to research and development in industrial, medical, biotechnology, financial, and aerospace applications, we provide scientific support for related algorithms and arithmetic.
+Hello! I am currently enrolled in the Master of Data Science at the City University of Macau, under the guidance of xx tutor. My research interests are mainly focused on the field of Artificial Intelligence, such as Machine Learning, Deep Learning, Reinforcement Learning and Federated Learning, in addition to Big Data Engineering Technologies, Edge Computing and Multimodality, Computer Vision and Pattern Recognition, Privacy and Security. In my spare time, I enjoy working out, running, traveling and photography.Dedicated to research and development in industrial, medical, biotechnology, financial, and aerospace applications, we provide scientific support for related algorithms and arithmetic.
