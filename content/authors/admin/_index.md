@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mphil
+role: Master of Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - Green Trusted Artificial Intelligence
   - Computer Vision and Pattern Recognition
-  - Edge Computing and Multimodality
+  - Bioinformatics technology
   - Big Data Engineering Technologies
 
 education:
@@ -62,7 +62,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: Mphil Data Science
+  - area: Master of Data Science
     institution: City University of Macau
     date_start: 2024-08-26
     date_end: 2026-08-31
