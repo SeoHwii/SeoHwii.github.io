@@ -70,10 +70,16 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng Big Data Technology and Applications
+      - MDS001 Data Science
+      - MDS011 Data Analysis & Statistical Inference
+      - MDS016 Big Data Analytics & Applications
+      - MDS002 Time-series analysis
+      - MDS015 Artificial Intelligence Neural Network
+      - MDS003 Hadoop Big Data Processing Technology
+      - MDS012 Big Data Algorithms
+      - MDS018 Financial Market Data Analysis
+      - MDS019 Precision Marketing in the Era of Big Data
+  - area: B.Eng. Big Data Engineering Technology
     institution: Guangzhou Vocational and Technical University of Science and Technology
     date_start: 2020-10-18
     date_end: 2024-07-02
@@ -200,4 +206,4 @@ awards:
 
 ## About Me
 
-Hello! I am currently enrolled in the Master of Data Science at the City University of Macau, under the guidance of xx tutor. My research interests are mainly focused on the field of Artificial Intelligence, such as Machine Learning, Deep Learning, Reinforcement Learning and Federated Learning, in addition to Big Data Engineering Technologies, Edge Computing and Multimodality, Computer Vision and Pattern Recognition, Privacy and Security. In my spare time, I enjoy working out, running, traveling and photography.Dedicated to research and development in industrial, medical, biotechnology, financial, and aerospace applications, we provide scientific support for related algorithms and arithmetic.
+Hello! I am currently pursuing a Master's degree in Data Science at the City University of Macau under the supervision of Prof. Chi Liu. My research interests are mainly focused on deep learning areas such as Trusted Artificial Intelligence and Computer Vision. In my free time, I enjoy working out, running, traveling and photography. I am committed to research and development in industrial, medical, biotechnology, financial and aerospace applications, providing scientific support to related fields.
