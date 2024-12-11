@@ -40,11 +40,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/SeoHwii
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/hwii-hsu-652629217/)
+    url: https://www.linkedin.com/in/hwii-hsu-652629217/
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?user=7J2pDjwAAAAJ&hl=zh-CN)
+    url: https://scholar.google.com/citations?user=7J2pDjwAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: [https://orcid.org/](https://orcid.org/0009-0008-8905-633X)
+    url: https://orcid.org/0009-0008-8905-633X
 
 interests:
   - Green Trusted Artificial Intelligence
